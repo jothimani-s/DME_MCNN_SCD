@@ -1,0 +1,5 @@
+# config.py
+EPOCHS = 100
+BATCH_SIZE = 64
+LEARNING_RATE = 0.001
+IMG_SIZE = (256, 256)
